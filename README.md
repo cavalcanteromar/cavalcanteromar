@@ -2,7 +2,7 @@
 ## Olá, Eu sou Romário Cavalcante
 > #### 👀 Estou interessado em desenvolvimento Web, Mobile, Front-End, BackEnd.
 
-> #### 🌱 Atualmente estou aprendendo, Html, Css, Javascript, Flutter, PHP, Java, Python, Angular, Django, Sass...
+> #### 🌱 Atualmente estou aprendendo, Html, Css, Javascript, Flutter, PHP, Laravel, Java, Python, Angular, Django, Sass...
 
 ## Como me encontrar ?
 
