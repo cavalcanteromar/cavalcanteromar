@@ -6,7 +6,7 @@
 
 ## Como me encontrar ?
 
-> #### E-mail Pessoal: romariocavalcant@gmail.com
+> #### E-mail Pessoal: romariocavalcant@rede.ulbra.br
 
 > #### Linkedin: [romariopc](https://www.linkedin.com/in/romariopc/)
 
